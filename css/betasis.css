@@ -1,0 +1,72 @@
+.bar_70 {
+  height:70px;
+}
+
+.iconcan{
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.item p {
+  text-shadow: 2px 2px black;
+}
+
+.koyu {
+  color: #444;
+}
+
+.mavi {
+  color: blue;
+}
+    
+.modal-resim {
+  width: 800px;
+  height:600px;
+}
+
+.news {
+  font-size:150%;
+}
+
+.ref_li {
+  display:block;
+  height:150px;
+  align:center;
+}
+
+.ref_li img {
+  height:100%;
+  width:100%;
+}
+
+.sag {
+  float: right;
+}
+
+
+
+
+/* TOOLTIP */
+a.tooltip2 {outline:none; }
+a.tooltip2 strong {line-height:30px;}
+a.tooltip2:hover {text-decoration:none;} 
+a.tooltip2 span {
+    z-index:10; display:none; padding:14px 20px;
+    margin-top:-30px; margin-left:-150px;
+    width:300px; line-height:16px;
+}
+a.tooltip2:hover span{
+    display:inline; position:absolute; color:#111;
+    border:1px solid #DCA; background:#fffAF0;}
+.callout {z-index:20;position:absolute;top:30px;border:0;left:-12px;}
+    
+/*CSS3 extras*/
+a.tooltip2 span
+{
+    border-radius:4px;
+    box-shadow: 5px 5px 8px #CCC;
+}
+/* End of TOOLTIP */
+
+
